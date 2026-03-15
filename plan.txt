@@ -1,0 +1,2 @@
+User Goal-->Planner Agent-->Step-by-step plan-->Worker Agent-->Final Results
+-->Memory
